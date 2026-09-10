@@ -1,0 +1,14 @@
+{
+  "name": "genpark-gale-shapley-stable-matching-skill",
+  "version": "1.0.0",
+  "description": "Gale-Shapley deferred acceptance algorithm engine solving stable matching problems with Pareto-optimal proposer guarantees.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "gale-shapley",
+    "stable-matching",
+    "game-theory",
+    "deferred-acceptance",
+    "market-design"
+  ]
+}
